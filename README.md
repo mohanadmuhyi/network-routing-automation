@@ -1,4 +1,4 @@
-# Enterprise Network Routing & Automation (GNS3)
+# Network Routing & Automation (GNS3)
 
 
 ## ✨ Executive Summary
@@ -122,7 +122,7 @@ This approach improves repeatability and reflects real operational practices.
 
 ![Run](screenshots/python.png)
 
-[OUTPUT](output/routing_status_2025-12-13_00-18-21.txt)
+[OUTPUT](outputs/routing_status_2025-12-13_00-18-21.txt)
 
 ---
 
