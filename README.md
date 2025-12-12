@@ -118,11 +118,11 @@ To reduce manual verification, a Python automation script was developed using **
 
 This approach improves repeatability and reflects real operational practices.
 
-[📁 Script Location](automation/check_routing.py)
+[Script Location](automation/check_routing.py)
 
 ![Run](screenshots/python.png)
 
-[📁 OUTPUT](output/routing_status_2025-12-13_00-18-21.txt)
+[OUTPUT](output/routing_status_2025-12-13_00-18-21.txt)
 
 ---
 
